@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status
+E1001,C101,Laptop,2,1500,2026-09-01,completed
+E1002,C102," Mouse ",1,700,2026-09-01,completed
+E1003,C103,Monitor,one,9500,2026-09-02,completed
+E1004,C104,Keyboard,3,250,2026-09-02,cancelled
+E1005,C105,Headphones,2,1800,2026-09-03,completed

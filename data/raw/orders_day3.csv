@@ -1,0 +1,5 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status
+E1011,C111,External Drive,1,2600,2026-09-06,completed
+E1012,C112,Tablet Case,0,800,2026-09-06,completed
+E1002,C102,Mouse,1,700,2026-09-01,completed
+E1013,C113,Power Bank,2,-900,2026-09-07,completed

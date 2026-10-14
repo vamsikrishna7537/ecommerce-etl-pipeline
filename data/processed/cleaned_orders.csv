@@ -1,0 +1,7 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status,revenue
+E1001,C101,Laptop,2.0,1500.0,2026-09-01,completed,3000.0
+E1002,C102,Mouse,1.0,700.0,2026-09-01,completed,700.0
+E1004,C104,Keyboard,3.0,250.0,2026-09-02,cancelled,750.0
+E1005,C105,Headphones,2.0,1800.0,2026-09-03,completed,3600.0
+E1006,C106,Webcam,1.0,2200.0,2026-09-03,completed,2200.0
+E1011,C111,External Drive,1.0,2600.0,2026-09-06,completed,2600.0

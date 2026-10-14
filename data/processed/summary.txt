@@ -1,0 +1,8 @@
+ETL PIPELINE SUMMARY
+====================
+Input rows: 14
+Clean rows: 6
+Rejected rows: 7
+Duplicate rows removed: 1
+Revenue across clean orders: 12850.00
+Revenue from completed orders: 12100.00

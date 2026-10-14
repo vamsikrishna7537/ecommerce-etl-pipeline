@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status
+E1006,C106,Webcam,1,2200,2026-09-03,completed
+E1007,C107,Laptop Stand,-1,1200,2026-09-04,completed
+E1008,C108,   ,2,500,2026-09-04,completed
+E1009,C109,SSD,1,four thousand,2026-09-05,completed
+E1010,C110,Router,2,3200,not-a-date,completed

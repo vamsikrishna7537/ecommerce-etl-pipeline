@@ -1,0 +1,1 @@
+.venv/\nvenv/\n__pycache__/\n*.py[cod]\n.idea/\n.vscode/\n.env\ndata/processed/*\n!data/processed/.gitkeep\n

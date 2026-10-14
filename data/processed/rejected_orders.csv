@@ -1,0 +1,8 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status,rejection_reason
+E1003,C103,Monitor,,9500.0,2026-09-02,completed,"quantity is missing, non-numeric, or <= 0"
+E1007,C107,Laptop Stand,-1.0,1200.0,2026-09-04,completed,"quantity is missing, non-numeric, or <= 0"
+E1008,C108,,2.0,500.0,2026-09-04,completed,product is blank or missing
+E1009,C109,SSD,1.0,,2026-09-05,completed,"unit_price is missing, non-numeric, or <= 0"
+E1010,C110,Router,2.0,3200.0,,completed,order_date is invalid or missing
+E1012,C112,Tablet Case,0.0,800.0,2026-09-06,completed,"quantity is missing, non-numeric, or <= 0"
+E1013,C113,Power Bank,2.0,-900.0,2026-09-07,completed,"unit_price is missing, non-numeric, or <= 0"

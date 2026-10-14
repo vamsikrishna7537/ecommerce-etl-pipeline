@@ -1,0 +1,2 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status,rejection_reason
+E1002,C102,Mouse,1.0,700.0,2026-09-01,completed,
