@@ -34,6 +34,29 @@ ecommerce-etl-pipeline/
 └── README.md
 ```
 
+## ETL Workflow
+
+```text
+Raw CSV Files
+     |
+     v
+Extract and Combine
+     |
+     v
+Standardize and Validate
+     |
+     v
+Separate Invalid Records
+     |
+     v
+Remove Exact Duplicates
+     |
+     v
+Calculate Revenue
+     |
+     v
+Save Processed Outputs
+
 ## Run the project
 
 1. Install Python 3.11 or newer.
